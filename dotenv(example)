@@ -1,0 +1,6 @@
+REACT_APP_BASEURL = https://api.themoviedb.org/3
+REACT_APP_BASEIMGURL = 
+REACT_APP_APIKEY = 
+REACT_APP_TOKEN = 
+
+
